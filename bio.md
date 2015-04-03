@@ -20,3 +20,4 @@ as well as the logic and math components. As mentioned above, I am passionate ab
 music. Winter term 2014/15 I actually designed, coded, soldered, and 3D printed an entire functional synthesizer and casing.
 This was possibly the most rewarding project I have ever completed and I hope to someday have a career doing related tasks.
 
+Here is "some more content." I am starting to understand the ease of using GitHub and the importance of branching and merging. When working on a coding assignment, it would be very easy to make a branch to work on a new function, commit some changes, go back to understand where errors might have occurred, and merge the branch once finalized.
