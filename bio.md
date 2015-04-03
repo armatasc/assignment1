@@ -1,4 +1,11 @@
-Basic Information
+**Alternative Biography**
+Here are a few things about myself you may find interesting:
+*	I was professionally trained in a Corvallis restaurant; consequently, I have some very fast knife skills
+*	I became a black belt in Kenpo American Karate before my freshman year in high school
+*	I had open-heart surgery a few years after I was born due to a "small hole in my heart"
+
+
+**Basic Information**
 
 My name is Christian Armatas and I am a junior currently studying Computer Science and Entrepreneurship. I was born/raised in
 Corvallis and I absolutely love this city and Oregon State University. Initially I was a little skeptical about going to a college in my home town, but thus far my college experience has been very enjoyable. I have no regrets about my choice, especially considering the impressive resources OSU and the College of Engineering offer to students.
@@ -7,7 +14,7 @@ In my free time, I enjoy hanging out with friends, working out, and longboarding
 cooking, and rock-climbing. I am very passionate and interested in the relation between computer science and the study of music
 and audio-technology development. 
 
-Programming Background
+**Programming Background**
 
 I have been programming since sophomore year in high school where I started on a simple object oriented language, Alice. Since
 coming to OSU, I have gained knowledge in a wide variety of programming languages including Python, C++, C, HTML, PHP, SQL,
