@@ -8,3 +8,15 @@ cooking, and rock-climbing. I am very passionate and interested in the relation 
 and audio-technology development. 
 
 Programming Background
+
+I have been programming since sophomore year in high school where I started on a simple object oriented language, Alice. Since
+coming to OSU, I have gained knowledge in a wide variety of programming languages including Python, C++, C, HTML, PHP, SQL,
+PureData, and more. My favorite assignment from 161/162 would have to be the battleship paired programming assignment my
+freshman year. The project took my partner and I days of trial, error, and eventually success which led to an overwhelming sense
+of pride.
+
+Computer Science is a very entertaining major for myself because I enjoy the rigor and sense of accomplishment the field offers,
+as well as the logic and math components. As mentioned above, I am passionate about the relation between CS and the study of
+music. Winter term 2014/15 I actually designed, coded, soldered, and 3D printed an entire functional synthesizer and casing.
+This was possibly the most rewarding project I have ever completed and I hope to someday have a career doing related tasks.
+
