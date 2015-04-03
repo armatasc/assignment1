@@ -1,2 +1,2 @@
 # assignment1
-This reposi
+This repository will demonstrate my ability to navigate and operate basic GitHub fuctions.
